@@ -1,0 +1,37 @@
+# 📊 Online Course Analysis – Power BI Project
+
+![Dashboard Screenshot](Screenshot%202025-06-01%20011336.png)
+
+## 🧾 Project Overview
+
+This Power BI dashboard analyzes a dataset of online courses, uncovering trends in course types, popular skills, languages, and user engagement. It helps education platforms and instructors understand what learners are most interested in.
+
+## 🛠️ Tools & Techniques
+
+- Power BI Desktop (.pbix)
+- Power Query for data cleaning
+- DAX for calculated metrics
+- Relationships & Data modeling
+- Interactive visuals using slicers, charts, and tables
+
+## 📌 Dashboard Features
+
+- **Course Type Popularity** using bar charts  
+- **Top Categories by Average Views**  
+- **Demanding Skills** through sub-category charts  
+- **Prominent Languages** via pie chart  
+- **Number of Viewers by Subtitle Count** (Line chart)  
+- **Interactive Slicers** to filter by Course Category  
+- **Clean UI** with visual storytelling  
+
+## 🔍 Key Insights
+
+- Courses on **Leadership**, **Data Analysis**, and **Software Development** are highly in demand.  
+- **English** dominates as the language of instruction (97%).  
+- **Data Science** and **IT** categories attract the most engagement.  
+- Subtitles play a key role in viewer accessibility, with 1M+ viewers using 1–2 subtitle languages.  
+
+## 📁 Files Included
+
+- `power BI project.pbix` – Main Power BI file  
+- `Screenshot 2025-06-01 011336.png` – Dashboard image preview  
